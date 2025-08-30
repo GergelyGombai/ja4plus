@@ -5,7 +5,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/exaring/ja4plus"
+	"github.com/GergelyGombai/ja4plus"
 )
 
 func ExampleJA4Middleware() {
