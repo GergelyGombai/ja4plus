@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"net/http/httptest"
 
-	"github.com/exaring/ja4plus"
+	"github.com/GergelyGombai/ja4plus"
 )
 
 func ExampleJA4() {
