@@ -1,3 +1,3 @@
-module github.com/exaring/ja4plus
+module github.com/GergelyGombai/ja4plus
 
 go 1.24
